@@ -597,6 +597,11 @@ h1, h2, h3 {
         display: block; 
     }
 
+    /* (ADICIONADO) Garante que o menu não seja cortado */
+    .navbar.nav-open {
+        overflow: visible;
+    }
+
     .navbar nav {
         display: none; 
         position: absolute;
