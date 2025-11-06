@@ -4,12 +4,6 @@ Bem-vindo ao repositório do meu portfólio profissional. Este projeto foi 100% 
 
 ---
 
-### ✨ Prévia
-
-(Recomendo que você grave um GIF ou tire um screenshot do seu site finalizado e o coloque aqui. Ele vai aparecer automaticamente se o adicionar à pasta `/assets` e usar o seguinte link:)
-
-![Prévia do Portfólio](assets/preview.gif)
-
 ---
 
 ## 🎯 Sobre o Projeto
