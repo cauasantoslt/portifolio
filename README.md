@@ -2,8 +2,6 @@
 
 Bem-vindo ao repositório do meu portfólio profissional. Este projeto foi 100% construído do zero (HTML, CSS e JavaScript) para servir como meu "cartão de visitas" digital, onde apresento meus projetos, artigos e competências na área de Ciência de Dados e Inteligência Artificial.
 
-**[Clique aqui para visitar o site ao vivo]** (insira o link do seu site aqui, quando o publicar)
-
 ---
 
 ### ✨ Prévia
